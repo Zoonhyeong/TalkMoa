@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "C:\\Users\\User\\Documents\\톡모아 ver 4\\index.html"
+            "name": "index.html",
+            "file": "C:\\Users\\User\\Documents\\TALKMOA\\index.html"
         }
     ]
 }
